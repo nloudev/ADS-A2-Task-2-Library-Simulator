@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 2\ADS A2 TASK 2\Main.cpp(18,1): warning C4715: 'findBookInBorrowed': not all control paths return a value
+  ADS A2 TASK 2.vcxproj -> C:\Users\johnl\source\repos\ADS\A2\ADS A2 TASK 2\x64\Debug\ADS A2 TASK 2.exe
